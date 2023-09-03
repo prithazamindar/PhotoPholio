@@ -7,5 +7,5 @@ It should provide options for users to save, preview, and download images.
 #### 
 The application should be user-friendly and have a visually appealing design.
 ### Install Project
-  $ git clone https://github.com/prithazamindar/PhotoPholio.git
-  $ cd PhotoPholio
+    $ git clone https://github.com/prithazamindar/PhotoPholio.git
+    $ cd PhotoPholio
